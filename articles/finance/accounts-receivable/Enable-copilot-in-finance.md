@@ -68,7 +68,7 @@ For information about the capabilities and limitations of AI-powered Copilot fea
 
 ## Enable the required security role
 
-Users who should have access to the functionality must be assigned the **Finance and Operations AI** security role in Dataverse.
+Users who should have access to the functionality must be assigned the **Finance and Operations AI** and the **Finance and Operations Basic User** security roles in Dataverse.
 
 1. In the detail view of the environment, in the **Access** field, select **Users** or **Teams**.
-1. Select the users or teams that should have access, and assign the **Finance and Operations AI** security role.
+1. Select the users or teams that should have access, and assign the **Finance and Operations AI** and the **Finance and Operations Basic User** security roles.
